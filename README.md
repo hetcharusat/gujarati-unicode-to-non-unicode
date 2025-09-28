@@ -14,7 +14,7 @@ A beautiful and powerful tool to convert Unicode Gujarati text to **35+ differen
   - Professional card-based design
   - Clean, modern interface
   
-- 🌙 **[Ultra-Modern Gujarati Converter.exe](executables/Ultra-Modern%20Gujarati%20Converter.exe)** *(12.4 MB)*
+- 🌙 **[Ultra-Modern Gujarati Converter.exe](executables/Ultra-Modern%20Gujarati%20Converter.exe)** *(12.4 MB)* (recommend)
   - Sleek dark theme
   - Smooth animations and effects
 
