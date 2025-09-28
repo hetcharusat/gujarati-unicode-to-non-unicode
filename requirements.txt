@@ -1,0 +1,6 @@
+# Python dependencies
+requests>=2.25.1
+urllib3>=1.26.0
+
+# For building executables
+pyinstaller>=5.0

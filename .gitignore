@@ -1,0 +1,46 @@
+# Git ignore file for Gujarati Font Converter
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.venv/
+myenv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Output text files
+converted*.txt
+output*.txt
+test*.txt
+
+# Temporary files
+temp/
+tmp/
+*.tmp
