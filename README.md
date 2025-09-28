@@ -1,4 +1,4 @@
-# 🚀 Gujarati Font Converter
+# 🚀 Gujarati Unicode to Non Unicode converter
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
